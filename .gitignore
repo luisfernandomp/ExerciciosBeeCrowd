@@ -30,3 +30,96 @@
 *.exe
 *.out
 *.app
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+## Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET / Blazor / Web Projects
+wwwroot/dist/
+wwwroot/build/
+appsettings.*.local.json
+
+## Rider
+.idea/
+
+## Auto-generated files
+Generated_Code/
+
+## Paket dependency manager
+.paket/
+paket-files/
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+packages/
+.nuget/
+project.lock.json
+
+## DotCover
+*.dotCover
+
+## StyleCop
+StyleCopReport.xml
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+## Dotnet CLI
+project.assets.json
+project.lock.json
+global.json
+artifacts/
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.vspx
+*.vsp
+*.sap
+
+## Backup & temporary files
+*.bak
+*.tmp
+*.temp
+*.old
+*.orig
+
+## Logs
+*.log
+
+## LocalDB
+*.mdf
+*.ldf
+
+## Others
+*.dbmdl
+*.pdb
+
+# VSCode
+.vscode/
+
+# Windows thumbs
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
